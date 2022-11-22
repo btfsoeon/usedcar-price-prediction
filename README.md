@@ -5,10 +5,11 @@
 
 [Kaggle](https://www.kaggle.com/datasets/tunguz/used-car-auction-prices)
 
-### Features (N: numeric data, C: categorical data)
+### Features (N: numerical data, C: categorical data)
 
-| year | make | model | trim | body | transmission | vin | state | condition | odometer | color | interior | seller | mmr | sellingprice| saledate |
-| N | C | C | C | C | C | C | car_id | C | N | N | C | C | C | N | N | datetime |
+| year 	| make 	| model | trim 	| body 	| transmission 	| vin 	| state | condition 	| odometer	| color | interior 	| seller	| mmr	| sellingprice	| saledate	|
+| -----	|------	|-------|-------|------	|--------------	|------	|-------|--------------	|---------------|-------|---------------|---------------|-------|---------------|---------------|
+| N 	| C 	| C 	| C 	| C 	| C 		|id	| C 	| N 		| N		| C	| C		| C		| N	| N		| datetime	|
 
 
 ## Literature
